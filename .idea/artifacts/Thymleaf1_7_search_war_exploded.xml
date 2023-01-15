@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Thymleaf1.7_search:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thymleaf1_7_search_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Thymleaf1.7_search" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lib_thymeleaf" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Thymleaf1.7_search/web/Web" />
+    </root>
+  </artifact>
+</component>

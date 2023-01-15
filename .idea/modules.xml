@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWebTest.iml" filepath="$PROJECT_DIR$/JavaWebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thymleaf/Thymleaf.iml" filepath="$PROJECT_DIR$/Thymleaf/Thymleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thymleaf1.5/Thymleaf1.5.iml" filepath="$PROJECT_DIR$/Thymleaf1.5/Thymleaf1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thymleaf1.6/Thymleaf1.6.iml" filepath="$PROJECT_DIR$/Thymleaf1.6/Thymleaf1.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thymleaf1.7_search/Thymleaf1.7_search.iml" filepath="$PROJECT_DIR$/Thymleaf1.7_search/Thymleaf1.7_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/test02.iml" filepath="$PROJECT_DIR$/test02/test02.iml" />
+    </modules>
+  </component>
+</project>
